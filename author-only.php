@@ -1,6 +1,25 @@
 <?php
 
 /**
+ * MadeSimpleSites plugin for WordPress
+ *
+ * @package   Author Only
+ * @link      https://github.com/okSausage/author-only
+ * @license   GPLV2
+ *
+ * Plugin Name:  Author Only
+ * Description:  This plugin limits access to specific content such as posts and media attachments only to the author of the post or media.  It is ideal for multi author sites.
+ * Version:      1.0.0
+ * Plugin URI:   https://github.com/okSausage/author-only
+ * Author:       Lou Grossi
+ * Author URI:   https://github.com/okSausage
+ * Text Domain:  author-only
+ * Domain Path:  /languages/
+ * Requires PHP: 7.x, 8.x
+ *
+ */
+
+/**
  * Limits the posts to the logged-in author.
  *
  * @param WP_Query $query The WordPress Query object.

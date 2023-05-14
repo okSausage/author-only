@@ -8,7 +8,7 @@
         \/                 \/                       \/     \/     \/     
 
 ```
-This plugin limiting access to specific content such as posts and media attachments only to the author of the post or media.  It is ideal for multi author sites.
+This plugin limits access to specific content such as posts and media attachments only to the author of the post or media.  It is ideal for multi author sites.
 
 -- DETAILS --
 
