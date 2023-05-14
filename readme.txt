@@ -1,4 +1,4 @@
-=== Author Only ===
+=== Author Only ===		
  
 Contributors: someguynamedlou
 Tags: permissions, restrict, author only, posts, media
